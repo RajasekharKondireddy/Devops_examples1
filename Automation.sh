@@ -1,8 +1,6 @@
 #!/bin/bash
 
-echo "Enter your name "
-
-read name 
+name=Raju
 
 echo "good morning $name "
  sleep 1s
@@ -10,4 +8,13 @@ echo "good morning $name "
  sleep 1s
  echo "Have a nice day"
 
+ if [ $name = Raju ]
+ then
+	 echo "user have a passkey"
+ else
+	 echo "user have invalid paskey"
+ fi
+
+
+	 
 
