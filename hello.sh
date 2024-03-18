@@ -3,9 +3,9 @@
 #########
 #Author :user_DEV1
 #version :1.0
-#last modified ; 01/02/24
+#last modified ; 18/03/24
 #########
 
-echo "hello user please take screenshop while using this script"
+echo "Git practice"
 
 
